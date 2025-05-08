@@ -1,5 +1,5 @@
 # 🎯Requirement Analysis in Software Development
-Before deploying a project, conducting a thorough requirement analysis is essential to gain a clear understanding of what the system will do and how it will perform.
+Requirement analysis is essential to gain a clear understanding of what the system will do and how it will perform.
     
 ## What is Requirement Analysis?
    
