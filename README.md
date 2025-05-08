@@ -34,7 +34,7 @@ perform.It serves as the foundation for all subsequent stages of software develo
 - Provide a clear visualization presentation of the system.
 - Help identitying and organizing system requirements.
 - Facilitate communication among stakeholders and development teams.
-  [View Booking System Diagram](https://github.com/umma101/requirement-analysis/blob/9db7a35dbaccd3701cf85519ed3c5b6be7ef91be/alx-booking-uc.drawio.png))
+  ![Booking System Diagram](https://github.com/umma101/requirement-analysis/blob/9db7a35dbaccd3701cf85519ed3c5b6be7ef91be/alx-booking-uc.drawio.png))
     
 ## Acceptance Criteria
  #### Importance of Acceptance Criteria
