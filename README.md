@@ -1,17 +1,17 @@
-# Requirement Analysis in Software Development
-    Before deploying a project, conducting a thorough requirement analysis is essential to gain a clear understanding of what the system will do and how it will perform.
+# 🎯Requirement Analysis in Software Development
+Before deploying a project, conducting a thorough requirement analysis is essential to gain a clear understanding of what the system will do and how it will perform.
     
 ## What is Requirement Analysis?
    
-    Required Analysis is the process of identifying, gathering and defining the needs and expectation of stakeholders for a software product to be developed and how it will 
-    perform.It serves as the foundation for all subsequent stages of software development.
+Required Analysis is the process of identifying, gathering and defining the needs and expectation of stakeholders for a software product to be developed and how it will 
+perform.It serves as the foundation for all subsequent stages of software development.
 
 ## Why is Requirement Analysis Important?
   
-    - Helps avoid misunderstandings or missed features
-    - Facilitate accurate estimation of project cost and resources
-    - Quality assurance that it meets the finla product specifications
-    - Providing a solid foundation for designing and developing the system
+-  Helps avoid misunderstandings or missed features
+-  Facilitate accurate estimation of project cost and resources
+-  Quality assurance that it meets the finla product specifications
+-  Providing a solid foundation for designing and developing the system
 
 ## Key Activities in Requirement Analysis
 | Key Activities| Description|
@@ -29,19 +29,19 @@
 
 ## Use Case Diagrams
 #### what Use Case Diagrams?         
-    Its a visualized presentation of interaction between users and the system.
+- Its a visualized presentation of interaction between users and the system.
  #### Use Case Diagrams benefits
-    -Provide a clear visualization presentation of the system.
-    -Help identitying and organizing system requirements.
-    -Facilitate communication among stakeholders and development teams.
+- Provide a clear visualization presentation of the system.
+- Help identitying and organizing system requirements.
+- Facilitate communication among stakeholders and development teams.
     
 ## Acceptance Criteria
  #### Importance of Acceptance Criteria
-    - Helps developers, testers, and stakeholders understand exactly what the feature should do
-    - Ensures that the delivered feature meets the intended requirements.
-    - Facilitates collaboration between product owners, developers, and testers
-    - Helps developers focus on delivering the right functionality without scope creep
-    - Helps ensure that the end product meets user needs by capturing essential requirements.
+- Helps developers, testers, and stakeholders understand exactly what the feature should do
+- Ensures that the delivered feature meets the intended requirements.
+- Facilitates collaboration between product owners, developers, and testers
+- Helps developers focus on delivering the right functionality without scope creep
+- Helps ensure that the end product meets user needs by capturing essential requirements.
 
 
  
