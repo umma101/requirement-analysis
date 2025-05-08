@@ -34,6 +34,16 @@
     -Provide a clear visualization presentation of the system.
     -Help identitying and organizing system requirements.
     -Facilitate communication among stakeholders and development teams.
+    
+## Acceptance Criteria
+ #### Importance of Acceptance Criteria
+    - Helps developers, testers, and stakeholders understand exactly what the feature should do
+    - Ensures that the delivered feature meets the intended requirements.
+    - Facilitates collaboration between product owners, developers, and testers
+    - Helps developers focus on delivering the right functionality without scope creep
+    - Helps ensure that the end product meets user needs by capturing essential requirements.
+
+
  
 
   
